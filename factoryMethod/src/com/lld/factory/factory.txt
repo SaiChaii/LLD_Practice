@@ -1,0 +1,48 @@
+Factory Pattern Notes
+
+Purpose:
+Factory Pattern is used to create objects without exposing the creation logic to the client.
+
+Why use it:
+
+Avoids using new everywhere
+
+Centralizes object creation
+
+Reduces coupling between client and concrete classes
+
+Allows easy extensibility
+
+When to use:
+
+When object creation logic is conditional or complex
+
+When the system needs flexibility in choosing object types
+
+Key idea:
+Client calls factory, factory decides which object to return.
+
+Benefits:
+
+Maintainable and scalable code
+
+Easy to add new types without modifying client code
+
+Removes dependency on specific classes
+
+Analogy:
+Client is like a customer ordering food, factory is the kitchen preparing it, products are different dishes.
+
+Structure:
+
+Interface or base type
+
+Concrete implementations
+
+Factory class containing logic to create correct object
+
+Client that requests objects from factory
+
+Interview note:
+Factory Pattern uses one factory class.
+Factory Method Pattern involves subclasses overriding creation logic.
