@@ -1,4 +1,4 @@
-package com.lld.factory;
+package com.lld.simplefactory;
 
 public class Ship implements Transport{
     public Ship(){

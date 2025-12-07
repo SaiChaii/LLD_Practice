@@ -1,4 +1,4 @@
-package com.lld.factory;
+package com.lld.simplefactory;
 
 public class Client {
     public static void main(String[] args){
