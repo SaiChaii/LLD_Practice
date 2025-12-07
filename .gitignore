@@ -1,7 +1,7 @@
-.idea/
-*.iml
+# IntelliJ build output
 out/
 build/
 target/
-.gradle/
-.DS_Store
+*.iml
+.idea/
+factoryMethod/production/
