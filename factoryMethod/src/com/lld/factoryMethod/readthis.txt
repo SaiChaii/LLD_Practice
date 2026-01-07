@@ -1,0 +1,6 @@
+This is a expected implementation of simple actory but
+interviewer might not directly ask you to tell this code
+
+This is just like removing the if-else blocks and replacing them with factory methods of specific classes
+
+Basically an improved version og simple factory

@@ -1,0 +1,6 @@
+This is an in-complete version of abstract factory ,
+
+abstract factory is mostly asked in sde-2 lvls ( not ruling out the possibility of asking in sde1's)
+
+focus mostly on simple factory and factory method patterns for sde1 lvl and abstract factory for further lvls
+( I am expecting you to upgrade this code)
