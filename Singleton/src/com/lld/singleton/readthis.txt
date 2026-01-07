@@ -1,3 +1,6 @@
 This is a singleton sample code there a lot of things that go around singleton
 
 these things need to be learned for interview and also for good knowledge these can be tricky learn from chatgpt
+
+Examples: concurrent threads trying to access the same singleton entity then who does this behave
+2. build thread safe singleton code
